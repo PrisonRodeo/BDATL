@@ -1,7 +1,7 @@
 Big Data and the Law - PLSC 597E - Fall 2013
-====
+------
 
-Dr. Christopher Zorn 
+Dr. Christopher Zorn <br />
 Pennsylvania State University
 
 
